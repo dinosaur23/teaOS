@@ -1,1 +1,1 @@
-print ('command :')
+input = print ('command :')
